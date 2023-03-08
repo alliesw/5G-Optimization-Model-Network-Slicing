@@ -1,14 +1,27 @@
 alliesw/Usable-Private-5G-Networks
 
 Hybrid 5G Networks
-- Use Case: 
-- Deployment Methods: 
+- Use Case: Customize and isolate slices per enterprise customer and use case/traffic type at an airport  
+- Deployment Methods: Integrating a company's on-premises hardware with the public 5G infrastructure services
 
 Virtual 5G Networks
-- Use Case: 
-- Deployment Methods: 
+- Use Case: CV2X - Automated connected-vehicle services (Cellular vehicle-to-everything) to enable communication between vehicles, as well as the public infrasture it's shared with 
+- Deployment Methods: On top of an infrastructure layer that is shared with public services
 
-WAN/LAN 5G Networks
-- Use Case: Campus; 
-- Deployment Methods: 
+Standalone 5G Networks
+- Use Case: solution is deployed or provided as a managed service at a customers premises (airports, etc)
+- Deployment Methods: Fully independent & on-premise deployment (independent from the public 5G Infrastructure)  
 
+Different ways of composing private 5G networks (network slices)
+Cloud deployment -
+
+RAN
+
+CORE
+
+Transport
+- Traffic flows from one network slice (or a group of them) should be mapped into transport resources that match the required Service Level Agreement (SLA) for the slice or group of slices.
+
+QoS mechanisms, IP ranges
+
+Operations support systems/business support systems
