@@ -1,0 +1,17 @@
+Approaches to building & operating 5G private networks w/ network slicing 
+
+Categorization is based off geographical area: campus-based, wide-area and limited-area
+
+(1) campus-based scenarios: Smart Manufacturing Plant Services 
+> Local consumption of services: Use a standalone or hybrid Private 5G network
+- Core NFs can be deployed in edge DCs within or tightly integrated with the plant, 
+typically together with RAN functions.
+
+(2) wide-area scenarios: Transportation Services 
+> Wide area coverage for services: Use a virtual network 
+- Set up RAN sclicing across the entire network
+- Deploy core NFs in edge DCs strategically throughout the network
+
+(3) Limited-area scenarios: Hotspot for virtual networks for a Sports Arena 
+- deploy a throughput-optimized slice for the core virtual network
+- deploy slice using RRP in dedicated sites to gaurantee bandwidth 
