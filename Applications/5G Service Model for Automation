@@ -1,3 +1,15 @@
-5G service model 
+Private 5G Network Service Model for Industrial Automation 
+> Opt.1 Building a Virtual Private 5G Network using Network Slicing via public networks
+> Opt.2 Build private network 
+
+Cloud-managed private 5G Network Model 
+Components: 
+- local radio 
+- edge compute platform 
+- 5G Core Network Functions [Virtualized, cloud network, standalone deployment] 
+- application ecosystem
+- the cloud 
+
+
 
 Yang automation framework 
