@@ -1,4 +1,20 @@
 alliesw/Usable-Private-5G-Networks
+
+1. Establish Use Case 
+2. Build network model to support use case 
+3. Acquire Spectrum to operate 
+
+To deliver cellular connectivity/build a cellular network for private network use cases, one must
+first obtain a licensed spectrum to operate.  
+
+CBRS offers three tiers of licensing that provide users access to a 150 megahertz band of spectrum - operating within the 3,550 MHz
+to 3,700 MHz range. I will focus on the free licensing tier, as this is the most practical/financially viable option for enterprise use. 
+> The General Authorized Access Tier of CBRS licenses is available to any user for free - enabling enterprises to acquire the spectrum 
+needed to build their own 5G cellular networks for private use.
+
+
+
+
 Network slicing approaches for offering & delivery 5G networks:
 
 (1) Standalone private 5G networks: slicing is used to customize the behavior for different use cases/traffic types and to provide isolation between them.
